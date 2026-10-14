@@ -9,13 +9,13 @@
 ### Opção 1: Via Terminal do Antigravity (`npx skills add`)
 Instale direto sem precisar baixar nada manualmente:
 ```bash
-npx skills add design-pro-max-kit
+npx skills add marcospaulos23/design-pro-max-kit
 ```
-*(Para instalar globalmente em todos os projetos da sua máquina: `npx skills add design-pro-max-kit -g`)*
+*(Para instalar globalmente em todos os projetos da sua máquina: `npx skills add marcospaulos23/design-pro-max-kit -g`)*
 
 ### Opção 2: Via PowerShell One-Liner (Nuvem / GitHub)
 ```powershell
-irm https://raw.githubusercontent.com/design-pro-max-kit/main/install.ps1 | iex
+irm https://raw.githubusercontent.com/marcospaulos23/design-pro-max-kit/main/install.ps1 | iex
 ```
 
 ### Opção 3: No Computador Local
